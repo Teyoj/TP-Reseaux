@@ -317,3 +317,17 @@ Et le nom de domaine de `92.146.54.88` est `apoitiers-654-1-167-88.w92-146.abo.w
 
 
 ## IV. Wireshark
+
+*J'étais tout seul sur cette partie donc je me suis ping moi-même*
+
+Le ping : 
+
+![](https://i.imgur.com/Nky9wDk.png)
+
+Le netcat : 
+
+
+
+Une requête DNS : 
+
+![](https://i.imgur.com/ry32y32.png)
