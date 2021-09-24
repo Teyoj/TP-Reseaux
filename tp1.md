@@ -326,7 +326,6 @@ Le ping :
 
 Le netcat : 
 
-![](https://i.imgur.com/F336XDC.png)
 
 
 Une requête DNS : 
