@@ -270,3 +270,6 @@ R1(config)#ip nat inside source list 1 interface fastEthernet 1/0 overload
 
 ## V. Add a building
 
+### 1. Topologie 5
+
+![](https://i.imgur.com/c3rMG1C.png)
